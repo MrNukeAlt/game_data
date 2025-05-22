@@ -70,28 +70,6 @@
       "Bloons Games"
     ]
   },
-  "bloonstdbattles": {
-    "game": "bloonstdbattles Modded",
-    "gameTitle": "Bloons TD Battles Modded",
-    "swfSize": {
-      "width": 800,
-      "height": 620
-    },
-    "swfURL": "https://mrnukealt.github.io/game_data/btdbattles-dat.swf",
-    "thumbURL": "/img/thumbs/bloonstdbattles.jpg",
-    "playable": true,
-    "maintainAspectRatio": true,
-    "fullscreenable": true,
-    "resizable": true,
-    "categories": [
-      "Featured Games",
-      "Tower Defense Games",
-      "Action Games",
-      "Arcade Games",
-      "Multiplayer Games",
-      "Bloons Games"
-    ]
-  },
   "bloonstd4": {
     "game": "bloonstd4",
     "gameTitle": "Bloons TD 4",
