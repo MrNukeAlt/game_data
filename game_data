@@ -70,14 +70,14 @@
       "Bloons Games"
     ]
   },
-  "bloonstdbattles": {
+  "bloonstdbattlesmod": {
     "game": "bloonstdbattles Modded",
     "gameTitle": "Bloons TD Battles Modded",
     "swfSize": {
       "width": 800,
       "height": 620
     },
-    "swfURL": https://mrnukealt.github.io/game_data/btdbattles-dat.swf",
+    "swfURL": "https://mrnukealt.github.io/game_data/btdbattles-dat.swf",
     "thumbURL": "/img/thumbs/bloonstdbattles.jpg",
     "playable": true,
     "maintainAspectRatio": true,
