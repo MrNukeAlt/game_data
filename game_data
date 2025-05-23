@@ -27,6 +27,26 @@
       "Bloons Games"
     ]
   },
+  "bloonstd5mod": {
+    "game": "bloonstd5 Wizard Lord + hidden map",
+    "gameTitle": "BTD5 Wizard Lord + hidden map",
+    "swfSize": {
+      "width": 800,
+      "height": 620
+    },
+    "swfURL": "https://nukeman999.github.io/ModdedSwfGames/wizardlord+hidden map.swf",
+    "thumbURL": "/img/thumbs/bloonstd5.jpg",
+    "nkBar": true,
+    "playable": true,
+    "maintainAspectRatio": true,
+    "fullscreenable": true,
+    "resizable": true,
+    "categories": [
+      "Featured Games",
+      "Tower Defense Games",
+      "Bloons Games"
+    ]
+  },
   "monkeycity": {
     "game": "monkeycity",
     "gameTitle": "Monkey City",
